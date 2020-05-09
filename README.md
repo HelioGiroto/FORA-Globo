@@ -1,5 +1,7 @@
 # FORA-Globo
-Com esta extensão seu computador estará livre de qualquer site ligado à REDE GLOBO - Fique livre de Fake News.
+Com esta extensão seu computador estará livre de qualquer site ligado à REDE GLOBO - Vacine seu computador deste vírus e fique livre de Fake News.
+
+![Xô Globo!!](https://github.com/HelioGiroto/FORA-Globo/blob/master/foraGlobo.png)
 
 Esta extensão é para navegador Chrome.
 
