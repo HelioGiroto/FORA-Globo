@@ -15,7 +15,7 @@ Se for útil, não esqueça de clicar acima no botão **STAR**!!! :)
 
 ## INSTALAÇÃO:
 
-1. Faça download da pasta compactada (\*.ZIP). Link: https://github.com/HelioGiroto/FORA-Globo/raw/master/foraGlobo.zip
+1. Faça **download** da pasta compactada (\*.ZIP). Link: https://github.com/HelioGiroto/FORA-Globo/raw/master/foraGlobo.zip
 2. Descompacte em alguma pasta do seu computador (em Documentos, por exemplo).
 3. Abra o Google Chrome neste endereço (URL): _[chrome://extensions/](chrome://extensions/)_
 4. Certifique-se que o **modo desenvolvedor** está ativado.
