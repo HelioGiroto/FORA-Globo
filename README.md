@@ -29,6 +29,6 @@ Figuras de exemplo para instalação:
 
 ![Figura 1](https://github.com/HelioGiroto/NO-COVID19---Chrome-extension/blob/master/tutorial_1.jpg?raw=true)
 
-![Figura 2](https://github.com/HelioGiroto/NO-COVID19---Chrome-extension/blob/master/tutorial_2.jpg?raw=true)
+![Figura 2](https://github.com/HelioGiroto/FORA-Globo/blob/master/extensaoForaGlobo.jpg?raw=true)
 
 <br><br>
